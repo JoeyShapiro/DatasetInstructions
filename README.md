@@ -19,4 +19,4 @@ The DikeDataset can be found here:
 https://github.com/iosifache/DikeDataset
 
 ## Creating your own benign dataset:
-To create a custom dataset of benign files, we have created the gather_files.py python script, which will search for every '.exe' files on your computer and copy those files to a given directory, while ensuring each file is unique.
+To create a custom dataset of benign files, we have created the gather_files.py python script, which will search for every '.exe' files on your computer and copy those files to a given directory while ensuring each file is unique.
