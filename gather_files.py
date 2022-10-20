@@ -6,7 +6,7 @@ hashes = []
 PATH_TO_SAVE_FILES = '' # The path you'd like to copy the unique files to
 for r, d, f in os.walk('C:/'): # The directory you'd like to search for the .exe's
     for file in f:
-        filepath = os.path.join(r, file)
+        file_path = os.path.join(r, file)
         if(file.endswith('.exe')):
             file_path = os.path.join(r, file)
             try:
