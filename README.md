@@ -5,6 +5,9 @@ This contains instructions on how to install the dataset for study "A Corpus of 
 All of the benign files that have been converted to images as well as the executables used from theZoo dataset can be found here: 
 https://drive.google.com/drive/folders/1nvCzAAGpywxO0DbOkW8EEZDuoyZkAurL?usp=sharing
 
+The original theZoo dataset can be found here:
+https://github.com/ytisf/theZoo
+
 The DikeDataset can be found here:
 https://github.com/iosifache/DikeDataset
 
